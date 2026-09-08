@@ -1,0 +1,11 @@
+# Local editor and operating system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Oracle local database files generated outside the project scripts
+*.dbf
+*.tmp
+*.ora
+
